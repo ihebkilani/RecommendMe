@@ -7,10 +7,11 @@ Implementation of an hybrid content based and collaborative filtering Recommende
 
 ***Techniques***: Web scraping , clustering ,text-mining
 
-***Technologies***: Python for Data Science (Pandas and Numpy libraries ...) , Django(Deployment) ,Android Studio (for mobile application).
+***Technologies***: Python for Data Science Pandas ,Numpy Nltk, TF-IDF, Cosine similarity , Euclidean distance... 
 
-### Install
+## Install
 pip install -r requirements.txt
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+## Author
+
+👤 **Iheb KILANI**
