@@ -1,0 +1,1 @@
+An hybrid content based and collaborative filtering Recommender System for the social network instagram that provides users with personalized recommendations of influencers based on the preferences of each one. 
