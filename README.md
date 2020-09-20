@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to recommendMe 👋</h1>
+<h1 align="center">RecommendME 👋</h1>
 <p>
 </p>
 
