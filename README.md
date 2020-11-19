@@ -15,6 +15,8 @@ Using the dictionary we were able to calculate the similarity between categories
 ## Install
 pip install -r requirements.txt
 
-## Author
+## Authors
 
 👤 **Iheb KILANI**
+👤 **Yosr MERCHAOUI**
+👤 **Yosra NACEUr**
